@@ -1,7 +1,7 @@
 # DACN
 Đồ án chuyên ngành - HK 241 
+Hệ thống quản lý phương tiện giao thông vận tải
 Plan:
-# Kế hoạch 15 tuần chi tiết cho dự án quản lý phương tiện giao thông vận tải
 
 ## Tuần 1: Lên ý tưởng và phân tích yêu cầu
 - **Thu thập yêu cầu** từ các đối tượng liên quan (người quản lý, nhân viên, khách hàng) để hiểu rõ mong muốn và quy trình làm việc.
